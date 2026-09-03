@@ -7,3 +7,4 @@ httpx
 python-dotenv
 cryptography
 pytest
+psycopg2-binary
